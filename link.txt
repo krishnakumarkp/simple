@@ -1,0 +1,1 @@
+http://learningprogramming.net/golang/golang-restful-web-api/basic-authentication-in-golang-restful-web-api/
